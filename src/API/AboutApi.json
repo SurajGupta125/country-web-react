@@ -1,0 +1,62 @@
+[
+    {
+        "country": "United States",
+        "capital": "Washington, D.C.",
+        "population": "331000000",
+        "interestingFact": "The U.S. has the world's largest economy."
+    },
+    {
+        "country": "India",
+        "capital": "New Delhi",
+        "population": "1393409038",
+        "interestingFact": "India is the world's largest democracy."
+    },
+    {
+        "country": "China",
+        "capital": "Beijing",
+        "population": "1444216107",
+        "interestingFact": "China is the most populous country in the world."
+    },
+    {
+        "country": "Japan",
+        "capital": "Tokyo",
+        "population": "125800000",
+        "interestingFact": "Japan is home to the world's oldest company, founded in 578 AD."
+    },
+    {
+        "country": "United Kingdom",
+        "capital": "London",
+        "population": "67886011",
+        "interestingFact": "London has the world's oldest underground metro system."
+    },
+    {
+        "country": "France",
+        "capital": "Paris",
+        "population": "65426179",
+        "interestingFact": "France is the most visited country in the world."
+    },
+    {
+        "country": "Germany",
+        "capital": "Berlin",
+        "population": "83149300",
+        "interestingFact": "Germany is Europe's largest economy."
+    },
+    {
+        "country": "Brazil",
+        "capital": "Brasília",
+        "population": "213993437",
+        "interestingFact": "Brazil has the largest rainforest — the Amazon."
+    },
+    {
+        "country": "Australia",
+        "capital": "Canberra",
+        "population": "25687041",
+        "interestingFact": "Australia is the only country that is also a continent."
+    },
+    {
+        "country": "Canada",
+        "capital": "Ottawa",
+        "population": "38005238",
+        "interestingFact": "Canada has the longest coastline in the world."
+    }
+]

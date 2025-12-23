@@ -1,0 +1,20 @@
+[
+    {
+        "id": "1",
+        "icon": "FaLocationDot",
+        "title": "Find us",
+        "detail":"Mumbai, Maharashtra"
+    },
+     {
+        "id": "2",
+        "icon": "MdAddIcCall",
+        "title": "Call us",
+        "detail":"9120924955"
+    },
+     {
+        "id": "3",
+        "icon": "IoMailOpenSharp",
+        "title": "Mail us",
+        "detail":"05suraj999@gmail.com"
+    }
+]
