@@ -1,4 +1,4 @@
-import { createBrowserRouter, RouterProvider } from "react-router-dom"
+import { createHashRouter, RouterProvider } from "react-router-dom"
 
 import { Applayout } from "./AppLayout"
 
@@ -12,7 +12,7 @@ import { Error } from "./page/errorPage"
 import { DynamicPage } from "./DynamicPage"
 
 const App = () => {
-  const router = createBrowserRouter([{
+  const router = createHashRouter([{
     path: "/",
     element: <Applayout />,
     errorElement: <Error />,
